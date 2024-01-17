@@ -10,10 +10,11 @@ New information was added to examine a new halal restaurant, "Penang Flavours," 
 
 I used the update_many query to convert latitude and longitude to decimals as instructed. The same function was used to convert, "Rating Value" to integers. 
 
-This exploratory analysis of "Eat Safe, Love" gave us valuable information. 
+This exploratory analysis of "Eat Safe, Love" gave us a vast amount of valuable information. 
 
-Establishments with Hygiene Score 20:
-
-Displayed establishments with a hygiene score of 20, providing count, the first document, and a Pandas DataFrame. High-Rated Establishments in London:
-
-Showcased establishments in London with a RatingValue greater than or equal to 4, presenting count, the first document, and a Pandas DataFrame.
+Key conclusions and valuable infoormation from this project include:
+1. Establishments with a hygeine score equal to 20
+2. Establishments with a hygeine score greater than or equal to 4
+3. Idenification of the top 5 establishments with a,"RatingValue" of 5, organized by lowest score, and closest to the new restaraunt, "Penang Flavours"
+4. Finally, we were asked to determine the number of establishments in each local authority that have a hygeine score of 0.
+5. These will be sorted from highest to lowest and the top ten authority areas will be will be printed and flagged. 
