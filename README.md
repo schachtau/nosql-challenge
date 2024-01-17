@@ -18,3 +18,4 @@ Key conclusions and valuable infoormation from this project include:
 3. Idenification of the top 5 establishments with a,"RatingValue" of 5, organized by lowest score, and closest to the new restaraunt, "Penang Flavours"
 4. Finally, we were asked to determine the number of establishments in each local authority that have a hygeine score of 0.
 5. These will be sorted from highest to lowest and the top ten authority areas will be will be printed and flagged. 
+All of this can be found in the repository analysis. 
